@@ -73,7 +73,7 @@ public class ArrayListDemo {
 		numbers.set(2, 9001);
 				
 		//Iterating through our list with a for-each loop
-		for(Integer j : numbers){
+		for(int j : numbers){
 			System.out.println(j);
 		}
 		System.out.println("\n");
